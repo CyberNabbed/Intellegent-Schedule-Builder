@@ -86,4 +86,3 @@ On the first run, the app will launch a **Setup Wizard** to help you add your te
 </p>
 
 ---
-*Developed as a robust, configuration-driven solution for team lead scheduling.*
