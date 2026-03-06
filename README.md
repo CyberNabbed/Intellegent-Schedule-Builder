@@ -38,12 +38,17 @@ I used **Google OR-Tools (CP-SAT)** to treat the entire month as a single multi-
 
 ### Setup & Running
 
+Run the executable
+
+or 
+
 ```bash
 # Get the dependencies
 pip install -r requirements.txt
 
 # Launch the app
 python3 src/scheduler.py
+
 ```
 
 On the first run, the app will launch a **Setup Wizard** to help you add your team members and define their shift types. You can update this later at any time directly through the UI. 
