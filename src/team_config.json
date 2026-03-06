@@ -1,0 +1,28 @@
+{
+    "employees": [
+        {
+            "name": "Alex",
+            "type": "late"
+        },
+        {
+            "name": "Mike",
+            "type": "early"
+        },
+        {
+            "name": "Joel",
+            "type": "early"
+        },
+        {
+            "name": "Singh",
+            "type": "late"
+        },
+        {
+            "name": "Sarah",
+            "type": "early"
+        },
+        {
+            "name": "Sally",
+            "type": "late"
+        }
+    ]
+}
